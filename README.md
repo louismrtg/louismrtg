@@ -125,31 +125,23 @@ Design bento sombre · assistant virtuel maison · stack SEO/AI-discoverability 
 <br>
 
 ## `> stats --github`
-
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=louismrtg&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=00FF41&icon_color=22D3EE&text_color=cdd6f4" />
-  <img src="https://github-readme-stats.vercel.app/api?username=louismrtg&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=00FF41&icon_color=22D3EE&text_color=cdd6f4" alt="Stats GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=louismrtg&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=00FF41&icon_color=22D3EE&text_color=cdd6f4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=louismrtg&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=00FF41&icon_color=22D3EE&text_color=cdd6f4" alt="Stats GitHub" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=louismrtg&layout=compact&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=00FF41&text_color=cdd6f4" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louismrtg&layout=compact&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=00FF41&text_color=cdd6f4" alt="Top langages" />
 </picture>
-
 <br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake.svg" />
   <img alt="Snake" src="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
-
 <br>
-
 <div align="center">
 
 **[contact@lm.fr.eu.org](mailto:contact@lm.fr.eu.org)**
