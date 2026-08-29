@@ -1,93 +1,194 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Louis+Martignon;D%C3%A9veloppeur+Full-Stack;%C3%89tudiant+CPGE+PTSI+%C2%B7+Cybers%C3%A9curit%C3%A9;Nevers%2C+France" alt="Typing SVG" /></a>
+<!-- Bannière animée cyberpunk/terminal -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=LOUISMRTG@SYSTEM~$+ls+-la;LOUISMRTG@SYSTEM~$+whoami;Developer+%7C+Full-Stack+%7C+Security" alt="Terminal animation" />
 
-[![Portfolio](https://img.shields.io/badge/lm.fr.eu.org-0d1117?style=flat-square&logo=googlechrome&logoColor=22D3EE)](https://lm.fr.eu.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/louismartignon/)
-[![Waze](https://img.shields.io/badge/Waze_L3-0d1117?style=flat-square&logo=waze&logoColor=22D3EE)](https://www.waze.com/fr/user/editor/LouisMrtg)
-[![Contact](https://img.shields.io/badge/Contact-0d1117?style=flat-square&logo=maildotru&logoColor=22D3EE)](https://lm.fr.eu.org/contact)
+<br>
+
+<!-- Badges de contact minimalistes -->
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://lm.fr.eu.org)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-louis--martignon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louismartignon/)
+[![Waze](https://img.shields.io/badge/WAZE-L3-00B2E3?style=for-the-badge&logo=waze&logoColor=white)](https://www.waze.com/fr/user/editor/LouisMrtg)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lm.fr.eu.org)
+
+<br>
+
+<!-- Compteur de visiteurs rétro -->
+![Visitors](https://komarev.com/ghpvc/?username=louismrtg&label=PROFILE+VIEWS&color=00FF41&style=flat-square)
 
 </div>
 
 <br>
 
-## À propos
+---
 
-Étudiant en CPGE PTSI au Lycée Jules Renard (Nevers), je construis des applications web complètes — du frontend à l'infrastructure — avec un intérêt marqué pour la cybersécurité et l'infrastructure réseau. En parallèle, j'édite des cartes numériques à grande échelle (Waze, Google Maps) sur des opérations à forts enjeux logistiques.
-
-<br>
-
-## Stack
+## 🎯 ABOUT
 
 ```
-$ whoami
-Louis Martignon — Développeur Full-Stack
+CPGE PTSI • Full-Stack Developer • Security Enthusiast
+Nevers, France 🇫🇷
 
-$ stack --list
-
-Frontend    React · TypeScript · Next.js · Tailwind CSS · Three.js
-Backend     Node.js · Python · PHP
-Infra       Firebase · Supabase · Docker · AWS · GCP
-Outils      Git · Vercel · Bash · DaVinci Resolve
+Status  : AVAILABLE FOR INTERNSHIP / FREELANCE
+Mission : Build secure, scalable web applications
 ```
 
 <br>
 
-## Projets
+---
 
-**Plateforme de billetterie — Bal de fin d'année**
-Application React pour la gestion et la vente des places du bal. Module de paiement sécurisé (chiffrement, 3D Secure), automatisation comptable en temps réel et envoi automatique des billets électroniques via les API EmailJS et Brevo.
-Stack : React · Paiement sécurisé · EmailJS / Brevo
-
-**Refonte digitale — Garage Renault Berger**
-Refonte bénévole complète du site du garage (Nevers) : migration vers une architecture Firebase, tableau de bord d'administration sur-mesure (CRUD, recadrage photo, drag & drop), modèle 3D interactif du showroom, optimisation SEO / mobile-first / RGPD.
-→ [renault-berger-nevers.fr](http://renault-berger-nevers.fr/)
-Stack : Firebase · JavaScript ES6+ · API ImgBB · Cropper.js
-
-**Cica Tracker**
-Application personnelle (PWA installable) de suivi quotidien de port de plaque de silicone après une opération au coude : anneau de progression, calendrier heatmap, graphiques, export PDF/TXT, notifications push quotidiennes, accès protégé par authentification.
-Stack : Next.js 14 · Supabase · Vercel · PWA · Web Push
-
-**Campagne municipale — Guérigny**
-Tournage, montage et étalonnage de 25 capsules vidéo de présentation pour la campagne municipale de Guérigny, de la prise de vue à la publication.
-Stack : DaVinci Resolve · Étalonnage · Restauration audio
-
-**Opérations cartographiques — Tour de France & Tour Nivernais Morvan 2026**
-Membre de l'équipe d'édition officielle Waze pour le Tour de France 2026 et responsable exclusif des fermetures de voies sur les 5 étapes du Tour Nivernais Morvan (~600 km sécurisés) : programmation des closures en amont, gestion de crise en temps réel, déviations.
-Stack : Waze Map Editor · Gestion de crise · Routing complexe
-
-**Portfolio personnel**
-Conception et développement intégral, esthétique bento sombre, assistant virtuel maison, stack SEO/AI-discoverability complète (JSON-LD, sitemap, llms.txt).
-→ [lm.fr.eu.org](https://lm.fr.eu.org)
-Stack : React · TypeScript · Tailwind CSS · Framer Motion
-
-<br>
-
-## Cartographie collaborative
-
-|  | Waze | Google Maps |
-|---|---|---|
-| Niveau | Area Manager (L3) | Local Guide (niveau 6) |
-| Zone / depuis | Nevers & agglomération · oct. 2025 | mars 2016 |
-| Contributions | 36 500+ modifications | 2 277 points · 66 avis · 55 photos |
-
-<br>
-
-## Activité GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=louismrtg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&icon_color=22D3EE&text_color=94a3b8" alt="Statistiques GitHub" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louismrtg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8" alt="Langages les plus utilisés" height="165">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Animation des contributions" src="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br><br>
+## 🔧 STACK
 
 <div align="center">
 
-**Contact** — [contact@lm.fr.eu.org](mailto:contact@lm.fr.eu.org) · [lm.fr.eu.org/contact](https://lm.fr.eu.org/contact)
+| **Frontend** | **Backend** | **Infra** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+
+</div>
+
+<br>
+
+---
+
+## 💼 PROJECTS
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎟️ Plateforme Billetterie
+**Bal de fin d'année**
+
+Vente & gestion de places  
+Paiement sécurisé (3D Secure)  
+Automation comptable temps réel  
+
+`React` `Node.js` `Stripe`
+
+</td>
+<td width="50%">
+
+### 🚗 Garage Renault Berger
+**Refonte digitale complète**
+
+[renault-berger-nevers.fr](http://renault-berger-nevers.fr/)
+
+Architecture Firebase  
+Dashboard admin (CRUD)  
+Modèle 3D interactif  
+
+`Firebase` `JS` `Cropper.js`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🩹 Cica Tracker
+**Suivi médical PWA**
+
+Calendrier heatmap  
+Graphiques & export PDF  
+Push notifications  
+
+`Next.js` `Supabase` `PWA`
+
+</td>
+<td width="50%">
+
+### 🎬 Montage vidéo
+**25 capsules campagne municipale**
+
+Prise de vue → Post-prod  
+Color grading pro  
+Restauration audio  
+
+`DaVinci Resolve`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗺️ Tour de France 2026
+**Édition cartographique Waze**
+
+Fermetures ~600 km sécurisés  
+Gestion de crise temps réel  
+Routing complexe  
+
+`Waze Map Editor`
+
+</td>
+<td width="50%">
+
+### 💼 Portfolio Personnel
+**[lm.fr.eu.org](https://lm.fr.eu.org)**
+
+Design bento cyberpunk  
+Assistant virtuel IA  
+SEO optimisé  
+
+`React` `TypeScript` `Framer Motion`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🗺️ CARTOGRAPHY CONTRIBUTIONS
+
+<div align="center">
+
+| Platform | Level | Contributions | Since |
+|:---:|:---:|:---:|:---:|
+| **Waze** | Area Manager (L3) | 36,500+ modifications | Oct 2025 |
+| **Google Maps** | Local Guide 6️⃣ | 2,277 pts · 66 avis | Mar 2016 |
+
+</div>
+
+<br>
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=louismrtg&show_icons=true&theme=nord&hide_border=true&bg_color=1e1e2e&title_color=00FF41&text_color=cdd6f4&icon_color=00FF41&include_all_commits=true&count_private=true)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louismrtg&layout=compact&theme=nord&hide_border=true&bg_color=1e1e2e&title_color=00FF41&text_color=cdd6f4)
+
+</div>
+
+<br>
+
+<!-- Animation Snake contributions qui fonctionne -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/louismrtg/louismrtg/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br>
+
+---
+
+## 🎯 QUICK LINKS
+
+<div align="center">
+
+[💼 Portfolio](https://lm.fr.eu.org) · [🔗 LinkedIn](https://www.linkedin.com/in/louismartignon/) · [✉️ Email me](mailto:contact@lm.fr.eu.org)
+
+**Available for**: Internships · Freelance · Open Source
 
 </div>
