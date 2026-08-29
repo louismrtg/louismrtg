@@ -17,8 +17,6 @@
 
 Étudiant en CPGE PTSI au Lycée Jules Renard (Nevers), je construis des applications web complètes — du frontend à l'infrastructure — et j'édite des cartes numériques à grande échelle en dehors des cours. Je m'intéresse en particulier à la cybersécurité et à l'infrastructure réseau, deux axes que je poursuis en parallèle de mes projets de développement.
 
-Recherche actuelle : un stage en cybersécurité ou développement web.
-
 <br>
 
 ## Stack technique
