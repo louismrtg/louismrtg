@@ -53,7 +53,7 @@ Paiement sécurisé (chiffrement, 3D Secure) · automatisation comptable temps r
 **Refonte digitale complète**
 
 Architecture Firebase · dashboard admin CRUD · modèle 3D interactif · SEO/RGPD.
-→ [renault-berger-nevers.fr](http://renault-berger-nevers.fr/)
+→ [berger.lm.fr.eu.org](https://berger.lm.fr.eu.org/)
 
 ![Firebase](https://img.shields.io/badge/Firebase-1e1e2e?style=flat-square&logo=firebase&logoColor=00FF41)
 ![JS](https://img.shields.io/badge/JavaScript_ES6+-1e1e2e?style=flat-square&logo=javascript&logoColor=22D3EE)
