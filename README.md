@@ -118,7 +118,7 @@ Design bento sombre · assistant virtuel maison · stack SEO/AI-discoverability 
 |:---:|:---:|:---:|
 | Niveau | Area Manager (L3) | Local Guide (niv. 6) |
 | Depuis | Oct. 2025 | Mars 2016 |
-| Volume | 36 500+ modifications | 2 277 pts · 66 avis · 55 photos |
+| Volume | 37 500+ modifications | 2 277 pts · 66 avis · 55 photos |
 
 </div>
 
