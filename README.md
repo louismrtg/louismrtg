@@ -5,6 +5,8 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://lm.fr.eu.org)
+[![WazeEditor](https://img.shields.io/badge/WAZEEDITOR-1e1e2e?style=for-the-badge&logo=waze&logoColor=00FF41)](https://wazeeditor.eu.org)
+[![WazeDepot](https://img.shields.io/badge/WAZEDEPOT-1e1e2e?style=for-the-badge&logo=cloudflare&logoColor=22D3EE)](https://depot.wazeeditor.eu.org)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/louismartignon/)
 [![Waze](https://img.shields.io/badge/WAZE_L3-1e1e2e?style=for-the-badge&logo=waze&logoColor=00FF41)](https://www.waze.com/fr/user/editor/LouisMrtg)
 [![Email](https://img.shields.io/badge/EMAIL-1e1e2e?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:contact@lm.fr.eu.org)
@@ -103,6 +105,32 @@ Design bento sombre · assistant virtuel maison · stack SEO/AI-discoverability 
 
 ![React](https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=00FF41)
 ![Framer](https://img.shields.io/badge/Framer_Motion-1e1e2e?style=flat-square&logo=framer&logoColor=22D3EE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 WazeEditor — Bourgogne-Franche-Comté
+**Portail communautaire & ressources cartographiques**
+
+Conception, développement et administration complète · outils éditeurs WME, suivi des territoires (Nièvre, Cher) et informations routières.
+→ [wazeeditor.eu.org](https://wazeeditor.eu.org/)
+
+![Waze](https://img.shields.io/badge/Waze_Editor-1e1e2e?style=flat-square&logo=waze&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-1e1e2e?style=flat-square&logo=vercel&logoColor=22D3EE)
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 WazeDepot
+**Plateforme de dépôt de pièces & suivi de dossiers**
+
+Architecture serverless complète · dépôt sécurisé de justificatifs (Turnstile, R2, D1) · suivi sans compte · console d'administration et supervision temps réel.
+→ [depot.wazeeditor.eu.org](https://depot.wazeeditor.eu.org/)
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-1e1e2e?style=flat-square&logo=cloudflare&logoColor=00FF41)
+![Sécurité](https://img.shields.io/badge/Turnstile_&_R2-1e1e2e?style=flat-square&logo=shieldcheck&logoColor=22D3EE)
 
 </td>
 </tr>
